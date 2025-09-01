@@ -1,10 +1,9 @@
-"# my-first-project" 
-Haw you can upload folders between PC and github?
-1. hello
+Haw you can upload folders between PC and github, by CMD or Terminal?
+
 
 Clone un dépot avec un dossier: 
 ```
-cd <chemin>
+cd <chemin> #CMD
 git init
 git add .
 git status
@@ -17,7 +16,7 @@ git push -u origin main --force
 ```
 or 
 ```
-cd <chemain>
+cd <chemain> #CMD
 git status
 git add .
 git commit -m "1st commit"
